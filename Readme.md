@@ -55,6 +55,3 @@ Install the necessary libraries using pip:
 ```bash
 pip install tensorflow opencv-python pygame matplotlib numpy
 ```
-
-## License
-[MIT](LICENSE)
